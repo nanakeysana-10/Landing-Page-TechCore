@@ -237,3 +237,7 @@ footer p{
     border-radius: 50%;
     object-fit: cover;
 }
+
+.tentang{
+    scroll-margin-top: 80px;
+}
